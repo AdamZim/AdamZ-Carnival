@@ -1,9 +1,7 @@
-# AdamZ-Carnival
-Udacity Starter Project
-Adam Zimmerman
-8/19/17 VRND
+# Udacity Carnival Starter Project
 
-Version notes:
-Unity 2017.1.0  
+This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
-GVR Unity SDK v1.60.0
+## Versions
+- Unity 2017.1.0
+- GVR Unity SDK v1.60.0
